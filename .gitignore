@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+logsentinel.db
+uploads/*
+!uploads/.gitkeep
