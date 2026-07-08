@@ -1,0 +1,2 @@
+198.51.100.15 - - [15/Nov/2025:11:00:01 +0000] "GET /login?username=admin'OR'1'='1 HTTP/1.1" 500 512
+198.51.100.15 - - [15/Nov/2025:11:00:05 +0000] "GET /search?q='UNION SELECT * FROM users HTTP/1.1" 500 512
